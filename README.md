@@ -13,7 +13,7 @@
 <!-- ✦ HEADER ✦ -->
 
 <p align="center">
-  <img src="assets/DNA_mafuyu_banner.png"
+  <img src="assets/mafuyu_second_banner.png"
        alt="Mafuyu Asahina inspired banner"
        width="100%">
 </p>
