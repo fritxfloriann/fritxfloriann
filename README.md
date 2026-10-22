@@ -144,15 +144,34 @@
 
 ## ☁️  Find Me
 
+
+## ☾ ୨ৎ find me elsewhere ୨ৎ
+
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-10111B?style=for-the-badge&logo=github&logoColor=B8B8E8"
-         alt="GitHub">
+  <a href="https://linktr.ee/unstxbleflxr1a">
+    <img
+      src="https://img.shields.io/badge/Linktree-8888CC?style=for-the-badge&logo=linktree&logoColor=E4E4F0"
+      alt="Linktree"
+    />
   </a>
 </p>
 
 <p align="center">
-  <sub>Other links coming soon... ♡</sub>
+  ⋆｡°✩ ───────────── ✩°｡⋆
+</p>
+
+<p align="center">
+  <a href="https://github.com/fritxfloriann">
+    <img src="https://img.shields.io/badge/GitHub-191B2B?style=flat-square&logo=github&logoColor=B8B8E8" />
+  </a>
+  <a href="https://linktr.ee/unstxbleflxr1a">
+    <img src="https://img.shields.io/badge/My%20Links-8888CC?style=flat-square&logo=linktree&logoColor=white" />
+  </a>
+</p>
+
+
+<p align="center">
+  <sub>All my links are in the linktree... ♡</sub>
 </p>
 
 <!-- ✦ FOOTER ✦ -->
@@ -162,7 +181,7 @@
   <br><br>
   <i>「 25:00 — a world of our own. 」</i>
   <br><br>
-  <sub>Thanks for visiting my little corner of the Sekai. ❄️</sub>
+  <sub>Thanks for visiting my GitHub profile. ❄️</sub>
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:10111B,50:191B2B,100:8888CC&height=3&section=footer"
        alt="">
