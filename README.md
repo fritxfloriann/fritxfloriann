@@ -144,6 +144,14 @@
 
 ## ☁️  Find Me
 
+<p align="center">
+  <a href="https://github.com/fritxfloriann">
+    <img src="https://img.shields.io/badge/GitHub-191B2B?style=flat-square&logo=github&logoColor=B8B8E8" />
+  </a>
+  <a href="https://linktr.ee/unstxbleflxr1a">
+    <img src="https://img.shields.io/badge/My%20Links-8888CC?style=flat-square&logo=linktree&logoColor=white" />
+  </a>
+</p>
 
 ## ☾ ୨ৎ find me elsewhere ୨ৎ
 
@@ -155,20 +163,6 @@
     />
   </a>
 </p>
-
-<p align="center">
-  ⋆｡°✩ ───────────── ✩°｡⋆
-</p>
-
-<p align="center">
-  <a href="https://github.com/fritxfloriann">
-    <img src="https://img.shields.io/badge/GitHub-191B2B?style=flat-square&logo=github&logoColor=B8B8E8" />
-  </a>
-  <a href="https://linktr.ee/unstxbleflxr1a">
-    <img src="https://img.shields.io/badge/My%20Links-8888CC?style=flat-square&logo=linktree&logoColor=white" />
-  </a>
-</p>
-
 
 <p align="center">
   <sub>All my links are in the linktree... ♡</sub>
