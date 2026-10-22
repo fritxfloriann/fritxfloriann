@@ -58,7 +58,7 @@
 - 🎧  Mafuyu Asahina's #1 Kin.
 - 🌙  Active in the afternoon and evenings.
 - 💻  Programmer, PC builder, tech enthusiast, and pursuing IT TAFE in Australia.
-- 🪻  Currently working on: `Project: Python` in `Python-Projects`.
+- 🪻  Currently working on: `Project_Python` in `Python-Projects`.
 
 <sub>「 I wonder what I really want to do... 」</sub>
 
