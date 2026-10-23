@@ -46,8 +46,8 @@
 ## ☾  About Me
 
 ```text
- ⋆｡°✩ user: fritxfloriann ⋆｡°✩ hobbies: technology, programming, writing, video games, and guitar.
- ⋆｡°✩ status: steady pace ⋆｡°✩ mood: always hungry ⋆｡°✩
+ ⋆｡°✩ user: fritxfloriann ⋆｡°✩ hobbies: technology, programming, writing, video games, and guitar. ✩°｡⋆
+ ⋆｡°✩ status: steady pace ⋆｡°✩ mood: always hungry ✩°｡⋆
 
  ୨ৎ My beloved, Mafuyu Asahina. ୨ৎ
 ```
