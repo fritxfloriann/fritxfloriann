@@ -51,7 +51,7 @@
 ⋆｡°✩ status: steady pace ✩°｡⋆
 ⋆｡°✩ mood: always hungry ✩°｡⋆
 
-୨ৎ currently coding in Python. ୨ৎ
+୨ৎ currently coding in python. ୨ৎ
 
 ୨ৎ My beloved, Mafuyu Asahina. ୨ৎ
 ```
@@ -59,9 +59,13 @@
 ୨ৎ Hello World! Here is a short list for my introduction.
 
 - ❄️  I make projects and do programming with Python soon to pursue C++!
-- 🎧  Mafuyu Asahina's #1 Kin.
-- 🌙  Active in the afternoon and evenings.
-- 💻  Programmer, PC builder, tech enthusiast, and pursuing IT TAFE in Australia.
+- 
+- 🎧  Your local programmer in Python!
+- 
+- 🌙  Active in the afternoons and evenings.
+- 
+- 💻  Programmer, PC builder, tech enthusiast, and pursuing TAFE in IT.
+- 
 - 🪻  Currently working on: `Project_Python` in `Python-Projects`.
 
 <sub>「 I wonder what I really want to do... 」</sub>
