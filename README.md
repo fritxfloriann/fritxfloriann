@@ -59,13 +59,13 @@
 ୨ৎ Hello World! Here is a short list for my introduction.
 
 - ❄️  I make projects and do programming with Python soon to pursue C++!
-- 
+ 
 - 🎧  Your local programmer in Python!
-- 
+ 
 - 🌙  Active in the afternoons and evenings.
-- 
+ 
 - 💻  Programmer, PC builder, tech enthusiast, and pursuing TAFE in IT.
-- 
+ 
 - 🪻  Currently working on: `Project_Python` in `Python-Projects`.
 
 <sub>「 I wonder what I really want to do... 」</sub>
