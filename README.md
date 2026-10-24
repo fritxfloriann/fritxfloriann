@@ -46,10 +46,14 @@
 ## ☾  About Me
 
 ```text
- ⋆｡°✩ user: fritxfloriann ⋆｡°✩ hobbies: technology, programming, writing, video games, and guitar. ✩°｡⋆
- ⋆｡°✩ status: steady pace ⋆｡°✩ mood: always hungry ✩°｡⋆
+⋆｡°✩ user: fritxfloriann ⋆｡°✩
+⋆｡°✩ hobbies: technology, programming, writing, video games, and guitar. ✩°｡⋆
+⋆｡°✩ status: steady pace ✩°｡⋆
+⋆｡°✩ mood: always hungry ✩°｡⋆
 
- ୨ৎ My beloved, Mafuyu Asahina. ୨ৎ
+୨ৎ currently coding in Python. ୨ৎ
+
+୨ৎ My beloved, Mafuyu Asahina. ୨ৎ
 ```
 
 ୨ৎ Hello World! Here is a short list for my introduction.
