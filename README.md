@@ -134,7 +134,7 @@
 <p align="center">
   <a href="https://github.com/fritxfloriann/Python-Projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fritxfloriann&repo=Python-Projects&hide_border=true&bg_color=10111B&title_color=8888CC&text_color=E4E4F0&icon_color=91A8D8"
-         alt="Project: Python, aka Python-Projects.">
+         alt="Project: Python">
   </a>
 </p>
 
@@ -145,7 +145,7 @@
 <p align="center">
   <a href="https://github.com/fritxfloriann/Basics-In-Python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fritxfloriann&repo=Basics-In-Python&hide_border=true&bg_color=10111B&title_color=8888CC&text_color=E4E4F0&icon_color=91A8D8"
-         alt="Where it all started.">
+         alt="Basics In Python.">
   </a>
 </p>
 
@@ -177,7 +177,7 @@
 </p>
 
 <p align="center">
-  <sub>All my links are in the linktree... ♡</sub>
+  <sub>All my links are in the Linktree... ♡</sub>
 </p>
 
 <!-- ✦ FOOTER ✦ -->
