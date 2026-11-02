@@ -100,8 +100,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fritxfloriann&show_icons=true&hide_border=true&bg_color=10111B&title_color=8888CC&text_color=E4E4F0&icon_color=91A8D8"
-       alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api?username=fritxfloriann&show_icons=true&hide_border=true&bg_color=10111B&title_color=8888CC&text_color=E4E4F0&icon_color=91A8D8" alt="GitHub statistics"> </p> <p align="center">
 </p>
 
 <p align="center">
