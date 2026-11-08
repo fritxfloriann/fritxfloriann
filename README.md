@@ -76,7 +76,7 @@
 
 <!-- ✦ TECH STACK ✦ -->
 
-## ❄️  Tech Stack
+## Tech Stack
 
 <p align="center">
   ────────────୨ৎ────────────
@@ -97,7 +97,7 @@
 
 <!-- ✦ GITHUB STATS ✦ -->
 
-## 📊  GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   ────────────୨ৎ────────────
