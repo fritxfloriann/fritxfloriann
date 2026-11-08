@@ -37,10 +37,6 @@
   <sub>Nightcord at 25:00. ♡</sub>
 </p>
 
-<p align="center">
-  ────────────୨ৎ────────────
-</p>
-
 <!-- ✦ ABOUT ME ✦ -->
 
 ## ☾  About Me
@@ -69,10 +65,6 @@
 - 🪻  Currently working on: `MARIN-STAR` and `Python-Projects`.
 
 <sub>「 I wonder what I really want to do... 」</sub>
-
-<p align="center">
-  ────────────୨ৎ────────────
-</p>
 
 <!-- ✦ TECH STACK ✦ -->
 
