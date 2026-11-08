@@ -120,10 +120,23 @@
 </p>
 
 <p align="center">
+  <img src="assets/MARIN_STAR_Repository.png"
+       alt="MARIN-STAR"
+       width="50%">
+
+<p align="center">
   <a href="https://github.com/fritxfloriann/MARIN-STAR">MARIN-STAR</a>
   <br>
   "A flagship visual novel made by Floria Blackthrone and Andrew Blackthrone."
-  <br><br>
+    <br>
+</p>
+
+<p align="center">
+  <img src="assets/Python_Projects_Repository.png"
+       alt="Python-Projects"
+       width="50%">
+
+<p align="center">
   <a href="https://github.com/fritxfloriann/Python-Projects">Python-Projects</a>
   <br>
   "A hub to fritxfloriann's projects made by Python."
