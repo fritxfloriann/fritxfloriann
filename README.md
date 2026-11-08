@@ -13,8 +13,8 @@
 <!-- ✦ HEADER ✦ -->
 
 <p align="center">
-  <img src="assets/Mafuyu_Fanart.png"
-       alt="Mafuyu Asahina inspired banner"
+  <img src="assets/Mafuyu_New.png"
+       alt="Mafuyu Asahina"
        width="100%">
 </p>
 
