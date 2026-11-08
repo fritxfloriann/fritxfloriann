@@ -27,7 +27,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=20&pause=1800&color=8888CC&center=true&vCenter=true&width=500&lines=Fritz+Anderson;welcome+to+my+little+hobby;appears+only+after+midnight;25%3A00+%E2%9C%A6+Nightcord"
+  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=20&pause=1800&color=8888CC&center=true&vCenter=true&width=500&lines=Fritz+Anderson;Welcome+to+my+little+hobby;Appears+only+after+midnight;Nightcord+25%3A00+%E2%9C%A6"
        alt="Animated welcome message">
 </p>
 
