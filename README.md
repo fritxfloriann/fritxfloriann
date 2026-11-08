@@ -132,6 +132,10 @@
 </p>
 
 <p align="center">
+  ────────────୨ৎ────────────
+</p>
+
+<p align="center">
   <img src="assets/Python_Projects_Repository.png"
        alt="Python-Projects"
        width="50%">
