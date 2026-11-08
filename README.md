@@ -23,7 +23,7 @@
 </p>
 
 <h1 align="center">
-  ꨄ︎  Asahina Mafuyu  ꨄ︎
+  "I wonder what I really want to do..."
 </h1>
 
 <p align="center">
@@ -66,7 +66,7 @@
  
 - 💻  Programmer, PC builder, tech enthusiast, and pursuing TAFE in IT.
  
-- 🪻  Currently working on: `Project_Python` in `Python-Projects`.
+- 🪻  Currently working on: `MARIN-STAR` and `Python-Projects`.
 
 <sub>「 I wonder what I really want to do... 」</sub>
 
