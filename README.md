@@ -112,6 +112,27 @@
   ────────────୨ৎ────────────
 </p>
 
+
+## Repositories
+
+<p align="center">
+  ────────────୨ৎ────────────
+</p>
+
+<p align="center">
+  <a href="https://github.com/fritxfloriann/MARIN-STAR">MARIN-STAR</a>
+  <br>
+  "A flagship visual novel made by Floria Blackthrone and Andrew Blackthrone."
+  <br><br>
+  <a href="https://github.com/fritxfloriann/Python-Projects">Python-Projects</a>
+  <br>
+  "A hub to fritxfloriann's projects made by Python."
+</p>
+
+<p align="center">
+  ────────────୨ৎ────────────
+</p>
+
 <!-- ✦ CONNECT ✦ -->
 
 ## ☾ ୨ৎ find me elsewhere ୨ৎ
