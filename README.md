@@ -119,7 +119,7 @@
 <p align="center">
   <a href="https://github.com/fritxfloriann/MARIN-STAR">MARIN-STAR</a>
   <br>
-  "A flagship visual novel made by Floria Blackthrone and Andrew Blackthrone."
+      "A psychological horror visual novel adaptation from MARIN★ (マリン・スター), made by Project: Blackthrone."
     <br>
 </p>
 
@@ -135,7 +135,7 @@
 <p align="center">
   <a href="https://github.com/fritxfloriann/Python-Projects">Python-Projects</a>
   <br>
-  "A hub to fritxfloriann's projects made by Python."
+  "My main repository for projects, programs, and code that is made in Python. "
 </p>
 
 <p align="center">
