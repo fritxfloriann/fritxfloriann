@@ -73,18 +73,24 @@
 
 ## SKILLS & EXPERTISE
 
-<p align="center">
-  ────────────୨ৎ────────────
-<p>
+In this section, I will be showing you my skills and expertise, based on my strengths, weaknesses, knowledge, hands-on learning, and experience.
 
-### Interests & Ideas
+## Interests & Ideas
 
 I'm an aspiring tech enthusiast and programmer who is deeply interested in technology.
 Particularly interested in cloud computing, hardware, and programming.
 
-My work aims to understand how hardware and software interact, debug errors and bugs, document commits and fixes, learn more about technology, and build things that help others and make work efficient.
+My work focuses on understanding how hardware and software interact, debugging errors, documenting commits and fixes, learning more about technology, and building things that help others and make work more efficient.
 
-### Technical Expertise
+<p align="center">
+  ────────────୨ৎ────────────
+</p>
+
+## Technical Expertise
+
+<p align="center">
+  ────────────୨ৎ────────────
+</p>
 
 I have a couple of technical areas of expertise, ranging from hardware to software.
 
@@ -100,13 +106,30 @@ After developing my knowledge for the hardware of a computer, my next step was c
 
 My journey to programming started with Hello World. I first learned Python through YouTube tutorials and then online. After a month of learning Python, I developed a couple of Python projects, still learning the fundamentals, writing maintainable code, and I plan to learn other programming languages in the future.
 
-### Documentation & Development
+<p align="center">
+  ────────────୨ৎ────────────
+</p>
+
+## Documentation & Development
+
+<p align="center">
+  ────────────୨ৎ────────────
+</p>
 
 I value maintainable, structured, and clear documentation within my projects and code. My repositories, like `Python-Projects` and `MARIN-STAR`, aim to showcase and deliver programs, code, and project documentation.
 
 Technical documentation should not just explain and execute code; it should show how the code works and how users can learn from it.
 
-### Areas of Interest
+<p align="center">
+  ────────────୨ৎ────────────
+</p>
+
+## Areas of Interest
+
+<p align="center">
+  ────────────୨ৎ────────────
+</p>
+
 
 Computer Hardware, Cloud Computing, Programming, Software Development, Game Development, System Troubleshooting, whilst continuing to learn more about technology and sustaining my skills and expertise.
 
