@@ -69,6 +69,10 @@
 
 <sub>「 I wonder what I really want to do... 」</sub>
 
+<!-- ✦ SKILLS & EXPERTISE ✦ -->
+
+
+
 <!-- ✦ TECH STACK ✦ -->
 
 ## Tech Stack
