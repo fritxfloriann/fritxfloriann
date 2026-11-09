@@ -75,7 +75,7 @@
 
 <p align="center">
   ────────────୨ৎ────────────
-</p>
+<p>
 
 ### Interests & Ideas
 
@@ -99,6 +99,16 @@ After developing my knowledge for the hardware of a computer, my next step was c
 • *Programming*
 
 My journey to programming started with Hello World. I first learned Python through YouTube tutorials and then online. After a month of learning Python, I developed a couple of Python projects, still learning the fundamentals, writing maintainable code, and I plan to learn other programming languages in the future.
+
+### Documentation & Development
+
+I value maintainable, structured, and clear documentation within my projects and code. My repositories, like `Python-Projects` and `MARIN-STAR`, aim to showcase and deliver programs, code, and project documentation.
+
+Technical documentation should not just explain and execute code; it should show how the code works and how users can learn from it.
+
+### Areas of Interest
+
+Computer Hardware, Cloud Computing, Programming, Software Development, Game Development, System Troubleshooting, whilst continuing to learn more about technology and sustaining my skills and expertise.
 
 <p align="center">
   ────────────୨ৎ────────────
