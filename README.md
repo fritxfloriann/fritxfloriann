@@ -71,7 +71,20 @@
 
 <!-- ✦ SKILLS & EXPERTISE ✦ -->
 
+## SKILLS & EXPERTISE
 
+<p align="center">
+  ────────────୨ৎ────────────
+</p>
+
+I'm an aspiring tech enthusiast and programmer who is deeply interested in technology.
+Particularly interested in cloud computing, hardware, and programming.
+
+My work aims to understand how hardware and software interact, debug errors and bugs, document commits and fixes, learn more about technology, and build things that help others and make work efficient.
+
+<p align="center">
+  ────────────୨ৎ────────────
+</p>
 
 <!-- ✦ TECH STACK ✦ -->
 
