@@ -87,7 +87,7 @@
 </p>
 
 <p align="center">
-  <sub>I'm still currently on Python. I will learn C++, JavaScript, HTML, and CSS in the future.</sub>
+  <sub>I'm still currently on Python. I will learn C++, JavaScript, HTML, and CSS in the future. Any of the languages not being used will be learned very soon.</sub>
 </p>
 
 <p align="center">
