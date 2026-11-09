@@ -77,10 +77,20 @@
   ────────────୨ৎ────────────
 </p>
 
+### Interests & Ideas
+
 I'm an aspiring tech enthusiast and programmer who is deeply interested in technology.
 Particularly interested in cloud computing, hardware, and programming.
 
 My work aims to understand how hardware and software interact, debug errors and bugs, document commits and fixes, learn more about technology, and build things that help others and make work efficient.
+
+### Technical Expertise
+
+I have a couple of technical areas of expertise, ranging from hardware to software.
+
+• *Computer Hardware*
+
+I learned how computers work and used hardware to start learning about technology. Hardware in computing is how I got introduced to the world of technology. My skills are balanced across many aspects. This includes PC building, repairs, diagnosing issues, troubleshooting, and hardware maintenance.
 
 <p align="center">
   ────────────୨ৎ────────────
