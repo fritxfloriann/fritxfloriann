@@ -43,8 +43,11 @@
 
 ```text
 ⋆｡°✩ user: fritxfloriann ⋆｡°✩
+
 ⋆｡°✩ hobbies: technology, programming, writing, video games, and guitar. ✩°｡⋆
+
 ⋆｡°✩ status: steady pace ✩°｡⋆
+
 ⋆｡°✩ mood: always hungry ✩°｡⋆
 
 ୨ৎ currently coding in python. ୨ৎ
@@ -80,7 +83,7 @@
 </p>
 
 <p align="center">
-  <sub>These are the tools I use, programming languages I'm learning, and things I want to explore.</sub>
+  <sub>I'm still currently on Python. I will learn C++, JavaScript, HTML, and CSS in the future.</sub>
 </p>
 
 <p align="center">
