@@ -44,7 +44,7 @@
 ```text
 ⋆｡°✩ user: fritxfloriann ⋆｡°✩
 
-⋆｡°✩ hobbies: technology, programming, writing, video games, and guitar. ✩°｡⋆
+⋆｡°✩ hobbies: technology, programming, writing, video games, and sports. ✩°｡⋆
 
 ⋆｡°✩ status: steady pace ✩°｡⋆
 
