@@ -92,6 +92,14 @@ I have a couple of technical areas of expertise, ranging from hardware to softwa
 
 I learned how computers work and used hardware to start learning about technology. Hardware in computing is how I got introduced to the world of technology. My skills are balanced across many aspects. This includes PC building, repairs, diagnosing issues, troubleshooting, and hardware maintenance.
 
+• *Computer Systems*
+
+After developing my knowledge for the hardware of a computer, my next step was computer systems. I have experience configuring system files, tinkering with operating systems, learning fundamentals of networking, and fixing software conflicts.
+
+• *Programming*
+
+My journey to programming started with Hello World. I first learned Python through YouTube tutorials and then online. After a month of learning Python, I developed a couple of Python projects, still learning the fundamentals, writing maintainable code, and I plan to learn other programming languages in the future.
+
 <p align="center">
   ────────────୨ৎ────────────
 </p>
