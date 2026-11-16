@@ -75,7 +75,7 @@
 
 In this section, I will be showing you my skills and expertise, based on my strengths, weaknesses, knowledge, hands-on learning, and experience.
 
-## Interests & Ideas
+### Interests & Ideas
 
 I'm an aspiring tech enthusiast and programmer who is deeply interested in technology.
 Particularly interested in cloud computing, hardware, and programming.
@@ -86,11 +86,7 @@ My work focuses on understanding how hardware and software interact, debugging e
   ────────────୨ৎ────────────
 </p>
 
-## Technical Expertise
-
-<p align="center">
-  ────────────୨ৎ────────────
-</p>
+### Technical Expertise
 
 I have a couple of technical areas of expertise, ranging from hardware to software.
 
@@ -110,11 +106,7 @@ My journey to programming started with Hello World. I first learned Python throu
   ────────────୨ৎ────────────
 </p>
 
-## Documentation & Development
-
-<p align="center">
-  ────────────୨ৎ────────────
-</p>
+### Documentation & Development
 
 I value maintainable, structured, and clear documentation within my projects and code. My repositories, like `Python-Projects` and `MARIN-STAR`, aim to showcase and deliver programs, code, and project documentation.
 
@@ -124,12 +116,7 @@ Technical documentation should not just explain and execute code; it should show
   ────────────୨ৎ────────────
 </p>
 
-## Areas of Interest
-
-<p align="center">
-  ────────────୨ৎ────────────
-</p>
-
+### Areas of Interest
 
 Computer Hardware, Cloud Computing, Programming, Software Development, Game Development, System Troubleshooting, whilst continuing to learn more about technology and sustaining my skills and expertise.
 
