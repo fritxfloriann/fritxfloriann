@@ -12,6 +12,10 @@
 
 <!-- ✦ HEADER ✦ -->
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10111B,50:191B2B,100:8888CC&height=3&section=footer"
+       alt="">
+</p>
+
 <p align="center">
   <img src="assets/Mafuyu_New.png"
        alt="Mafuyu Asahina"
