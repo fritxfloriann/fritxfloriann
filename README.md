@@ -204,6 +204,21 @@ Computer Hardware, Cloud Computing, Programming, Software Development, Game Deve
   ────────────୨ৎ────────────
 </p>
 
+<p align="center">
+  <img src="assets/Basics_In_Python_Repository.png"
+       alt="Basics-In-Python"
+       width="50%">
+
+<p align="center">
+  <a href="https://github.com/fritxfloriann/Basics-in-Python">Basics-In-Python</a>
+  <br>
+  "The first repository made by myself, which included my first journey in Python."
+</p>
+
+<p align="center">
+  ────────────୨ৎ────────────
+</p>
+
 <!-- ✦ CONNECT ✦ -->
 
 ## ☾ ୨ৎ find me elsewhere ୨ৎ
