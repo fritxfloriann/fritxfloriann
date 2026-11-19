@@ -1,4 +1,3 @@
-
 <!-- ✦ NIGHTCORD PROFILE LAYOUT ✦ -->
 
 <!-- HEADER -->
@@ -8,6 +7,10 @@
     width="100%"
     alt="Nightcord lavender header"
   />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10111B,50:191B2B,100:8888CC&height=3&section=footer"
+       alt="">
 </p>
 
 <p align="center">
@@ -21,9 +24,7 @@
 </p>
 
 <h1 align="center">
-  <font color="#B8B8E8">
-    FRITZ ANDERSON
-  </font>
+  FRITZ ANDERSON
 </h1>
 
 <p align="center">
@@ -61,15 +62,19 @@
 ୨ৎ aspiring C++ programmer.
 ୨ৎ technology enthusiast.
 ୨ৎ Mafuyu Asahina enthusiast.
-````
+```
 
-\<p align="center">   \<sub>「 I wonder what I really want to do... 」\</sub> \</p>
+<p align="center">
+  <sub>「 I wonder what I really want to do... 」</sub>
+</p>
 
-\<!-- SKILLS -->
+<!-- SKILLS -->
 
-\<h2 align="center">✦ SKILLS & EXPERTISE\</h2>
+<h2 align="center">✦ SKILLS & EXPERTISE</h2>
 
-\<p align="center">   \<sub>Understanding technology, one step at a time.\</sub> \</p>
+<p align="center">
+  <sub>Understanding technology, one step at a time.</sub>
+</p>
 
 ### ☾ Computer Hardware
 
@@ -87,90 +92,128 @@ Learning Python, developing projects, writing maintainable code and exploring so
 
 Building structured repositories with clear documentation, commits, explanations and project organisation.
 
-\<!-- TECH STACK -->
+<!-- TECH STACK -->
 
-\<h2 align="center">✦ TECH STACK\</h2>
+<h2 align="center">✦ TECH STACK</h2>
 
-\<p align="center">
-&#x20; \<img src="[https://skillicons.dev/icons?i=python,css,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=python,css,git,github,vscode\&theme=dark)"
-&#x20;      alt="Development tools">
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,css,git,github,vscode&theme=dark"
+       alt="Development tools">
+</p>
 
-\<p align="center">
-&#x20; \<sub>Currently learning Python. C++ is next.\</sub>
-\</p>
+<p align="center">
+  <sub>Currently learning Python. C++ is next.</sub>
+</p>
 
-\<!-- REPOSITORIES -->
+<!-- REPOSITORIES -->
 
-\<h2 align="center">☾ REPOSITORIES\</h2>
+<h2 align="center">☾ REPOSITORIES</h2>
 
-\<p align="center">
-&#x20; \<sub>୨ৎ Projects, experiments and things I've built ୨ৎ\</sub>
-\</p>
+<p align="center">
+  <sub>୨ৎ Projects, experiments and things I've built ୨ৎ</sub>
+</p>
 
-\<p align="center">
-&#x20; \<img src="assets/MARIN_STAR_Repository.png"
-&#x20;      alt="MARIN-STAR"
-&#x20;      width="65%">
-\</p>
+<p align="center">
+  <img src="assets/MARIN_STAR_Repository.png"
+       alt="MARIN-STAR"
+       width="65%">
+</p>
 
-\<p align="center">
-&#x20; \<b>MARIN-STAR\</b>
-&#x20; \<br>
-&#x20; \<a href="[https://github.com/fritxfloriann/MARIN-STAR](https://github.com/fritxfloriann/MARIN-STAR)">
-&#x20;   Explore Repository
-&#x20; \</a>
-&#x20; \<br>
-&#x20; \<sub>A psychological horror visual novel adaptation.\</sub>
-\</p>
+<p align="center">
+  <b>MARIN-STAR</b>
+  <br>
+  <a href="https://github.com/fritxfloriann/MARIN-STAR">
+    Explore Repository
+  </a>
+  <br>
+  <sub>A psychological horror visual novel adaptation.</sub>
+</p>
 
-\<p align="center">
-&#x20; ────────────୨ৎ────────────
-\</p>
+<p align="center">
+  ────────────୨ৎ────────────
+</p>
 
-\<p align="center">   \<img src="assets/Python_Projects_Repository.png"        alt="Python Projects"        width="65%"> \</p>
+<p align="center">
+  <img src="assets/Python_Projects_Repository.png"
+       alt="Python Projects"
+       width="65%">
+</p>
 
-\<p align="center">   \<b>Python-Projects\</b>   \<br>   \<a href="[https://github.com/fritxfloriann/Python-Projects](https://github.com/fritxfloriann/Python-Projects)">     Explore Repository   \</a>   \<br>   \<sub>Programs, experiments and Python projects.\</sub> \</p>
+<p align="center">
+  <b>Python-Projects</b>
+  <br>
+  <a href="https://github.com/fritxfloriann/Python-Projects">
+    Explore Repository
+  </a>
+  <br>
+  <sub>Programs, experiments and Python projects.</sub>
+</p>
 
-\<p align="center">   ────────────୨ৎ──────────── \</p>
+<p align="center">
+  ────────────୨ৎ────────────
+</p>
 
-\<p align="center">
-&#x20; \<img src="assets/Basics_In_Python_Repository.png"
-&#x20;      alt="Basics in Python"
-&#x20;      width="65%">
-\</p>
+<p align="center">
+  <img src="assets/Basics_In_Python_Repository.png"
+       alt="Basics in Python"
+       width="65%">
+</p>
 
-\<p align="center">
-&#x20; \<b>Basics-in-Python\</b>
-&#x20; \<br>
-&#x20; \<a href="[https://github.com/fritxfloriann/Basics-in-Python](https://github.com/fritxfloriann/Basics-in-Python)">
-&#x20;   Explore Repository
-&#x20; \</a>
-&#x20; \<br>
-&#x20; \<sub>Where my Python journey began.\</sub>
-\</p>
+<p align="center">
+  <b>Basics-in-Python</b>
+  <br>
+  <a href="https://github.com/fritxfloriann/Basics-in-Python">
+    Explore Repository
+  </a>
+  <br>
+  <sub>Where my Python journey began.</sub>
+</p>
 
-\<!-- GITHUB STATISTICS -->
+<!-- GITHUB STATISTICS -->
 
-\<h2 align="center">✦ GITHUB STATISTICS\</h2>
+<h2 align="center">✦ GITHUB STATISTICS</h2>
 
-\<p align="center">   \<img     src="[https://github-readme-streak-stats.herokuapp.com/?user=fritxfloriann&hide_border=true&background=10111B&ring=8888CC&fire=B8B8E8&currStreakLabel=8888CC&sideLabels=91A8D8&currStreakNum=E4E4F0&sideNums=E4E4F0&dates=91A8D8](https://github-readme-streak-stats.herokuapp.com/?user=fritxfloriann\&hide_border=true\&background=10111B\&ring=8888CC\&fire=B8B8E8\&currStreakLabel=8888CC\&sideLabels=91A8D8\&currStreakNum=E4E4F0\&sideNums=E4E4F0\&dates=91A8D8)"     alt="GitHub contribution streak"   /> \</p>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=fritxfloriann&hide_border=true&background=10111B&ring=8888CC&fire=B8B8E8&currStreakLabel=8888CC&sideLabels=91A8D8&currStreakNum=E4E4F0&sideNums=E4E4F0&dates=91A8D8"
+    alt="GitHub contribution streak"
+  />
+</p>
 
-\<!-- CONNECT -->
+<!-- CONNECT -->
 
-\<h2 align="center">☾ FIND ME ELSEWHERE\</h2>
+<h2 align="center">☾ FIND ME ELSEWHERE</h2>
 
-\<p align="center">   \<a href="[https://github.com/fritxfloriann](https://github.com/fritxfloriann)">     \<img src="[https://img.shields.io/badge/GitHub-191B2B?style=for-the-badge&logo=github&logoColor=B8B8E8](https://img.shields.io/badge/GitHub-191B2B?style=for-the-badge\&logo=github\&logoColor=B8B8E8)">   \</a>
+<p align="center">
+  <a href="https://github.com/fritxfloriann">
+    <img src="https://img.shields.io/badge/GitHub-191B2B?style=for-the-badge&logo=github&logoColor=B8B8E8">
+  </a>
 
-&#x20; \<a href="[https://linktr.ee/unstxbleflxr1a](https://linktr.ee/unstxbleflxr1a)">     \<img src="[https://img.shields.io/badge/Linktree-8888CC?style=for-the-badge&logo=linktree&logoColor=E4E4F0](https://img.shields.io/badge/Linktree-8888CC?style=for-the-badge\&logo=linktree\&logoColor=E4E4F0)">   \</a> \</p>
+  <a href="https://linktr.ee/unstxbleflxr1a">
+    <img src="https://img.shields.io/badge/Linktree-8888CC?style=for-the-badge&logo=linktree&logoColor=E4E4F0">
+  </a>
+</p>
 
-\<!-- FOOTER -->
+<!-- FOOTER -->
 
-\<p align="center">   ୨୧ ───────────────────── ୨୧   \<br>\<br>   \<i>「 25:00 — a world of our own. 」\</i>   \<br>\<br>   \<sub>Thanks for visiting my GitHub profile. ❄️\</sub> \</p>
+<p align="center">
+  ୨୧ ───────────────────── ୨୧
+  <br><br>
+  <i>「 25:00 — a world of our own. 」</i>
+  <br><br>
+  <sub>Thanks for visiting my GitHub profile. ❄️</sub>
+</p>
 
-\<p align="center">   \<img     src="[https://capsule-render.vercel.app/api?type=waving&color=0\:B8B8E8,50:8888CC,100:10111B&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0\:B8B8E8,50:8888CC,100:10111B\&height=100\&section=footer)"     width="100%"     alt="Nightcord footer"   /> \</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10111B,50:191B2B,100:8888CC&height=3&section=footer"
+       alt="">
+</p>
 
-\<!-- END -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:B8B8E8,50:8888CC,100:10111B&height=100&section=footer"
+    width="100%"
+    alt="Nightcord footer"
+  />
+</p>
 
-```
-```
+<!-- END -->
