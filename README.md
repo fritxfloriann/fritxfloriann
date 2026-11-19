@@ -12,8 +12,12 @@
 
 <!-- ✦ HEADER ✦ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10111B,50:191B2B,100:8888CC&height=3&section=footer"
-       alt="">
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:10111B,40:191B2B,75:8888CC,100:B8B8E8&height=180&section=header"
+    width="100%"
+    alt="Nightcord lavender header"
+  />
 </p>
 
 <p align="center">
