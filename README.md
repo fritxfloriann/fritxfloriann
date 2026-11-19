@@ -75,7 +75,7 @@
 
 <!-- ✦ SKILLS & EXPERTISE ✦ -->
 
-## SKILLS & EXPERTISE
+# SKILLS & EXPERTISE
 
 In this section, I will be showing you my skills and expertise, based on my strengths, weaknesses, knowledge, hands-on learning, and experience.
 
